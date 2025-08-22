@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base:"/shivshakti-auto",
+  base:"/shivshakti-auto-garage",
 })
