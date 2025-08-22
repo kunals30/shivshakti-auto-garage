@@ -7,6 +7,8 @@ import AboutUs from "./AboutUs";
 import ContactUs from "./ContactUs";
 import Footer from "./Footer";
 import BookService from "./BookService";
+import ScrollToTop from "./ScrollToTop";
+
 
 function App() {
 
@@ -20,6 +22,7 @@ function App() {
       <BookService/>
       <Footer></Footer>
       <WhatsappBtn></WhatsappBtn>
+      <ScrollToTop></ScrollToTop>
     </div>
   );
 }
